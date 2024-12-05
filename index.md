@@ -18,9 +18,9 @@ Hi, I'm Zhengyuan Liu! Currently I am the Asst. Head of the AI4EDU Programme @I2
 
 ## Join us & Collaboration
 
-- Research Assistant / Student Internship in <font color=purple>AI for Education</font>. Remote internship is also welcome!
-- Research Collaboration in <font color=purple>AI for Life Science</font>.
-- Research Assistant / Student Internship in <font color=purple>Generative AI and Multimodal Fundation Models</font>.
+- Research Assistant / Student Internship in <b><font color=purple>AI for Education</font></b>. Remote internship is also welcome!
+- Research Collaboration in <b><font color=purple>AI for Life Science</font></b>.
+- Research Assistant / Student Internship in <b><font color=purple>Generative AI and Multimodal Fundation Models</font></b>.
 
 ## Latest News
 
