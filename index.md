@@ -16,7 +16,13 @@ Hi, I'm Zhengyuan Liu! Currently I am the Asst. Head of the AI4EDU Programme @I2
 - Generative AI for Education, Healthcare, and Life Science.
 - Reliability, Robustness, and Explainability of Foundation Models for Human-Centered AI.
 
-## News
+## Join us & Collaboration
+
+- Research Assistant / Student Internship in AI for Education. Remote internship is also welcome!
+- Research Collaboration in AI for Life Science.
+- Research Assistant / Student Internship in Generative AI and Multimodal Fundation Models.
+
+## Latest News
 
 - **[Nov. 2024]** Our paper "Learning planning-based reasoning by trajectories collection and process reward synthesizing" got the Outstanding Paper Award in EMNLP 2024.
 - **[Nov. 2024]** Present our work "Personality-aware Student Simulation for Conversational Intelligent Tutoring Systems" in EMNLP 2024.
