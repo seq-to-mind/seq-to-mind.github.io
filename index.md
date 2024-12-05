@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-Hi, I'm Zhengyuan Liu! Currently I am the Asst. Head of the AI4EDU Programme @I2R, A*STAR, Singapore, and the Tech Lead of Multimodal Generative AI @I2R, A*STAR, Singapore.
+Hi, I'm Zhengyuan Liu! Currently I am the Asst. Head of the AI4EDU Programme @I2R, A\*STAR, Singapore, and the Tech Lead of Multimodal Generative AI @I2R, A\*STAR, Singapore.
 
 - I have published 30+ research papers in top-tier AI and Natural Language Processing conferences including ACL, NAACL, EMNLP, COLING, SIGDIAL, ICASSP, and Interspeech. I serves as the program committee and reviewer in conferences including NeurIPS, ICLR, and ACL, journals including IEEE TASLP, ACM CSUR, Neurocomputing, Pattern Recognition, Knowledge-based Systems, and Computer Speech & Language, and as the conference session chair in ICASSP and Interspeech. I have been elected as the IEEE Senior Member, and won the Best Paper Award at SIGDIAL 2021, Outstanding Paper Award in EMNLP 2023, Best Paper Award in C3NLP@ACL2024, and Outstanding Paper Award in EMNLP 2024.
 
-- "Imagination is more important than knowledge." -- Albert Einstein
+- *"Imagination is more important than knowledge."* -- Albert Einstein
 
 ## Research Interests
 
@@ -18,9 +18,9 @@ Hi, I'm Zhengyuan Liu! Currently I am the Asst. Head of the AI4EDU Programme @I2
 
 ## Join us & Collaboration
 
-- Research Assistant / Student Internship in AI for Education. Remote internship is also welcome!
-- Research Collaboration in AI for Life Science.
-- Research Assistant / Student Internship in Generative AI and Multimodal Fundation Models.
+- Research Assistant / Student Internship in <font color=purple>AI for Education</font>. Remote internship is also welcome!
+- Research Collaboration in <font color=purple>AI for Life Science</font>.
+- Research Assistant / Student Internship in <font color=purple>Generative AI and Multimodal Fundation Models</font>.
 
 ## Latest News
 
