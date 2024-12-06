@@ -27,7 +27,7 @@ Hi, I'm Zhengyuan Liu! Currently I'm the Asst. Head of the AI4EDU Programme @I2R
 - **[Nov. 2024]** Our paper "Learning planning-based reasoning by trajectories collection and process reward synthesizing" got the 🏅 Outstanding Paper Award in EMNLP 2024.
 - **[Nov. 2024]** Present our work "Personality-aware Student Simulation for Conversational Intelligent Tutoring Systems" in EMNLP 2024.
 - **[Sep. 2024]** Present our work "Optimizing Code-Switching in Conversational Tutoring Systems: A Pedagogical Framework and Evaluation" in SIGDIAL 2024.
-- **[Sep. 2024]** Our paper "CRAFT: Extracting and Tuning Cultural Instructions from the Wild" got the 🏅 Best Paper Award in C3NLP@2024.
+- **[Sep. 2024]** Our paper "CRAFT: Extracting and Tuning Cultural Instructions from the Wild" got the 🏅 Best Paper Award in C3NLP@ACL2024.
 - **[Feb. 2024]** Present our work "Scaffolding Language Learning via Multi-modal Tutoring Systems with Pedagogical Instructions" in IEEE CAI 2024.
 - **[Dec. 2023]** Our paper "Joint Dialogue Topic Segmentation and Categorization: A Case Study on Clinical Spoken Conversations" got the 🏅 Outstanding Paper Award in EMNLP 2024.
 
