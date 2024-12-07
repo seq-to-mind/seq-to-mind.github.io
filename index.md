@@ -19,9 +19,12 @@ Hi, I'm Zhengyuan Liu! Currently I'm the Asst. Head of the AI4EDU Programme @I2R
 ## Join Us & Collaboration
 
 - Research Assistant / Student Internship in <b><font color=red>AI for Education</font></b>. Remote internship is also welcome!
-- Research Collaboration in <b><font color=red>AI for Life Science & Healthcare</font></b>.
+	- Topics: conversational intelligent tutoring systems, human-AI collaborative learning.
 - Research Assistant / Student Internship in <b><font color=red>Generative AI and Multimodal Fundation Models</font></b>.
-- Contact me via this [E-mail](mailto:liu_zhengyuan@i2r.a-star.edu.sg).
+	- Topics: knowledge-enhanced reasoning, multi-agent collaboration.
+- Research Collaboration in <b><font color=red>AI for Life Science & Healthcare</font></b>.
+
+Contact me via email: liu_zhengyuan [at] i2r [dot] a-star [dot] edu [dot] sg
 
 ## Latest News
 
@@ -30,7 +33,7 @@ Hi, I'm Zhengyuan Liu! Currently I'm the Asst. Head of the AI4EDU Programme @I2R
 - **[Sep. 2024]** Present our work "Optimizing Code-Switching in Conversational Tutoring Systems: A Pedagogical Framework and Evaluation" in SIGDIAL 2024.
 - **[Sep. 2024]** Our paper "CRAFT: Extracting and Tuning Cultural Instructions from the Wild" got the 🏅 Best Paper Award in C3NLP@ACL2024.
 - **[Feb. 2024]** Present our work "Scaffolding Language Learning via Multi-modal Tutoring Systems with Pedagogical Instructions" in IEEE CAI 2024.
-- **[Dec. 2023]** Our paper "Joint Dialogue Topic Segmentation and Categorization: A Case Study on Clinical Spoken Conversations" got the 🏅 Outstanding Paper Award in EMNLP 2024.
+- **[Dec. 2023]** Our paper "Joint Dialogue Topic Segmentation and Categorization: A Case Study on Clinical Spoken Conversations" got the 🏅 Outstanding Paper Award in EMNLP 2023.
 
 <!-- {% include_relative _includes/publications.md %} -->
 
