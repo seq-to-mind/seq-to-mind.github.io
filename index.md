@@ -19,9 +19,9 @@ Hi, I'm Zhengyuan Liu! Currently I'm the Asst. Head of the AI4EDU Programme @I2R
 ## Join Us & Collaboration
 
 - Research Assistant / Student Internship in <b><font color=red>AI for Education</font></b>. Remote internship is also welcome!
-	- Topics: conversational intelligent tutoring systems, human-AI collaborative learning.
+	- Topics: conversational intelligent tutoring systems, human-AI collaborative learning, etc.
 - Research Assistant / Student Internship in <b><font color=red>Generative AI and Multimodal Fundation Models</font></b>.
-	- Topics: knowledge-enhanced reasoning, multi-agent collaboration.
+	- Topics: knowledge-enhanced reasoning, multi-agent collaboration, etc.
 - Research Collaboration in <b><font color=red>AI for Life Science & Healthcare</font></b>.
 
 Contact me via email: liu_zhengyuan [at] i2r [dot] a-star [dot] edu [dot] sg
