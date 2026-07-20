@@ -259,7 +259,7 @@ h1::after {
   white-space: nowrap;
   padding: 6px 16px;
   border: 1px solid var(--line);
-  border-radius: 999px;
+  border-radius: 10px;
   background-image: none;
   color: var(--ink-soft);
   transition: border-color .2s ease, background-color .2s ease, color .2s ease, transform .2s ease;
@@ -432,7 +432,7 @@ p:last-child { margin-bottom: 0; }
 }
 .openings p {
   color: var(--ink-soft);
-  font-size: 0.99rem;
+  font-size: 0.92rem;
   line-height: 1.7;
   margin: 0 0 8px;
 }
